@@ -1,2 +1,3 @@
 # quicksearch
-Search the web for anything without having your browser open!
+
+Quick search the web for anything from your desktop screen!
